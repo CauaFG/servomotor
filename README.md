@@ -11,3 +11,5 @@ Código para movimentar o braço do servomotor entre os ângulos de 0° a 180°,
 - No Visual Studio Code, com as extensões do Raspberry Pi Pico W e Wokwi instaladas, importe o projeto para o Raspberry Pi Pico W.
 - Compile o arquivo servomotor.c.
 - Abra o arquivo diagram.json e comece a executar o projeto
+
+## Vídeo de demonstração
