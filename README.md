@@ -13,3 +13,4 @@ Código para movimentar o braço do servomotor entre os ângulos de 0° a 180°,
 - Abra o arquivo diagram.json e comece a executar o projeto
 
 ## Vídeo de demonstração
+https://youtu.be/C3XM7aiP-3Q?si=0v_uGwRofJn-X6Nn
